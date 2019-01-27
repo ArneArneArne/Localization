@@ -45,8 +45,8 @@ ItemName="Verbesserter Raketenwerfer"
 PickupMessage="Verbesserter Raketenwerfer"
 
 [Rx_Weapon_Flamethrower]
-ItemName="Flamenwefer"
-PickupMessage="Flamenwefer"
+ItemName="Flammenwerfer"
+PickupMessage="Flammenwerfer"
 
 [Rx_Weapon_GrenadeLauncher]
 ItemName="Granatwerfer"
@@ -61,8 +61,8 @@ ItemName="Pistole"
 PickupMessage="Pistole"
 
 [Rx_Weapon_ChainGun]
-ItemName="Chaingun"
-PickupMessage="Chaingun"
+ItemName="Maschinengewehr"
+PickupMessage="Maschinengewehr"
 
 [Rx_Weapon_SniperRifle]
 ItemName="Scharfschützengewehr"
@@ -133,8 +133,8 @@ ItemName="Ionenkanonen Leuchtfeuer"
 PickupMessage="Ionenkanonen Leuchtfeuer"
 
 [Rx_Weapon_Grenade]
-ItemName="Splittergranate"
-PickupMessage="Splittergranate"
+ItemName="Granate"
+PickupMessage="Granate"
 
 [Rx_Weapon_Grenade_Rechargeable]
 ItemName="Splittergranate"
@@ -161,8 +161,8 @@ ItemName="Karabiner"
 PickupMessage="Karabiner"
 
 [Rx_Weapon_Karabiner_Silencer]
-ItemName="Karabiner"
-PickupMessage="Karabiner"
+ItemName="Schallgedämpfter Karabiner"
+PickupMessage="Schallgedämpfter Karabiner"
 
 [Rx_Weapon_Airstrike]
 ItemName="Luftschlag Marker"
